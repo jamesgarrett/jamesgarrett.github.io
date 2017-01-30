@@ -1,2 +1,2 @@
-# jamesgarrett.github.io
-github pages test
+# James Garrett Co
+Design + Development
